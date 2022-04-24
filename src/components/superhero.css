@@ -1,0 +1,20 @@
+.superhero-card {
+    border: 1px solid grey;
+    width: 20vw;
+  }
+  
+  .superhero-card img {
+    width: 95%;
+  }
+  .superhero-card h2 {
+    font-size: 1.6rem;
+  }
+
+
+  .superhero-card__text {
+    text-align: left;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1rem;
+
+  }
