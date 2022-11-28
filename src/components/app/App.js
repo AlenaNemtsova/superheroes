@@ -1,5 +1,5 @@
-import './App.css';
-import Superhero from './components/superhero';
+import '../../style/App.css';
+import Superhero from '../superhero/superhero';
 
 const superheroes = [
   { url: "./assets/img/batman.jpg", name: "Бэтмен", alter: "Брюс Уэйн", power: "интеллект, обширные познания, знания боевых искусств, ловкость" },

@@ -1,4 +1,4 @@
-import './superhero.css'
+import '../../style/superhero.css'
 
 
 function Superhero(props) {
